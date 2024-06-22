@@ -34,8 +34,6 @@ public class ClientMainApp {
 		ArrayList<TrayModel> trayAl = new ArrayList<TrayModel>();
 		ArrayList<RowLocModel> rowAl = new ArrayList<RowLocModel>();
 		ArrayList<ProductModel> catWiseProds = new ArrayList<>();
-
-
 		do {
 			System.out.println("******************************************************    MENU   ****************************************************************");
 			System.out.println("1 Product Related Operations");
